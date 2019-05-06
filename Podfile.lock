@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (4.9.0)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Kingfisher
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - SnapKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 7db22d653c8da4dd0e5fb5788e346c510ad4d8f6
+
+COCOAPODS: 1.5.3

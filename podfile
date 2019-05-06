@@ -1,0 +1,8 @@
+use_frameworks!
+target 'TestCell' do
+    pod 'Kingfisher'
+    pod 'SVProgressHUD'
+pod 'SnapKit', '~> 4.0.0'
+
+   
+end
